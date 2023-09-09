@@ -7,7 +7,7 @@
   <p style="opacity: 0.5; line-height: 0">FullStack</p>
 </span>
 
-<img src=".resources/me.png" alt="me" style="position: absolute; height: 165px; top: 6px; right: 6px"/>
+<img src=".resources/me.png" alt="me" style="position: absolute; height: 165px; top: 6px; right: 6px" align="right"/>
 
 ---
 
