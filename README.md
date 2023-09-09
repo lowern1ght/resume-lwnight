@@ -1,4 +1,4 @@
-<img src=".resources/me.png" alt="me" style="position: absolute; height: 160px; top: 0; right: 0" align="right"/>
+<img src=".resources/me.png" alt="me" style="position: absolute; height: 200px; top: 0; right: 0" align="right"/>
 
 # Alexander Sergeev
 
