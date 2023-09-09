@@ -1,3 +1,5 @@
+<img src=".resources/me.png" alt="me" style="position: absolute; height: 160px; top: 0; right: 0" align="right"/>
+
 # Alexander Sergeev
 
 **Russia, Nefteugansk**
@@ -6,8 +8,6 @@
   C# & TS/JS Developer
   <p style="opacity: 0.5; line-height: 0">FullStack</p>
 </span>
-
-<img src=".resources/me.png" alt="me" style="position: absolute; height: 165px; top: 6px; right: 6px" align="right"/>
 
 ---
 
