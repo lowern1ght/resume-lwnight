@@ -18,7 +18,7 @@
   
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
 - General:  Multithreading, Asynchronous, Unit-test, Design Patterns, OOP
-- DevOps: Docker, docker-compose
+- DevOps: Docker, docker-compose, WSL, Bash
 
 - Other technologies: 
   - CPP(c11, c17), Cmake, conan, SDL
