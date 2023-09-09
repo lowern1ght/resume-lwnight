@@ -31,6 +31,8 @@
   <p style="opacity: 0.5; line-height: 0">C#, 1C Developer</p>
 </span>
 
+> 2021 - 2023..
+
 - Successful application development on .NET, 1C
 - Communicate and collaborate effectively with other team members
 - Development and integration of solutions for working with commercial equipment
