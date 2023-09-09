@@ -1,4 +1,4 @@
-<img src=".resources/me.png" alt="me" style="position: absolute; height: 200px; top: 0; right: 0" align="right"/>
+<img src=".resources/me.png" alt="me" style="position: absolute; height: 220px; top: 0; right: 0" align="right"/>
 
 # Alexander Sergeev
 
@@ -14,7 +14,7 @@
 
 ## Skills
 
-- Backend: C#, .NET, SQL, _DB_(PostgreSQL, SQLite), _OS_(Linux, Windows), ASP.NET Core, _NetCommunication_(REST, GraphQL)
+- Backend: C#, .NET, SQL, _DB_(PostgreSQL, SQLite), _OS_(Linux, Windows), ASP.NET Core, _NetCommunication_(REST, GraphQL, `TCP/UDP`)
   - xUnit, Selenium, Benchmark.NET
   
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
