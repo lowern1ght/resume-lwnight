@@ -1,4 +1,4 @@
-<img src=".resources/me.png" alt="me" style="position: absolute; height: 240px; top: 0; right: 0" align="right"/>
+<img src=".resources/me.png" alt="me" style="position: absolute; height: 230px; top: 0; right: 0" align="right"/>
 
 # Alexander Sergeev
 
@@ -6,7 +6,6 @@
 
 <span style="font-size: 14px; line-height: 0">
   C# & TS/JS Developer
-  <p style="opacity: 0.5; line-height: 0">FullStack</p>
 </span>
 
 ---
