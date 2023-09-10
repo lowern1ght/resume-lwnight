@@ -60,6 +60,6 @@
 
 ### Contacts
 
-[lowern1ght@yahoo.com](mailto:lowern1ght@yahoo.com) || +7(902)8535680 || [telegram](https://t.me/lowern1ght)
+[lowern1ght@yahoo.com](mailto:lowern1ght@yahoo.com) ⁕ +7(902)8535680 ⁕ [telegram](https://t.me/lowern1ght)
 
 </div>
