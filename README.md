@@ -21,8 +21,9 @@
 - DevOps: Docker, docker-compose, WSL, Bash
 - Little experience: WPF, WinForms, Avalonia
 
-- Other technologies: 
+- Other technologies:
   - CPP(c11, c17), Cmake, conan, SDL
+  - 1C 8.3, 1C:EDT, УТ 11.5, ЭДО
   - Rust
 
 ## Commercial experience
