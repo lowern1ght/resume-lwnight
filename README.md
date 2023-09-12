@@ -13,12 +13,12 @@
 
 ## Skills
 
-- Backend: C#, .NET, SQL, _DB_(PostgreSQL, SQLite), _OS_(Linux, Windows), ASP.NET Core, _NetCommunication_(REST, GraphQL, `TCP/UDP`)
+- Backend: C#, .NET, SQL, _DB_(PostgreSQL, SQLite), _OS_(Linux(Ubuntu, Fedora), Windows), ASP.NET Core, _NetCommunication_(REST, GraphQL, `TCP/UDP`)
   - xUnit, Selenium, Benchmark.NET
   
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
 - General:  Multithreading, Asynchronous, Unit-test, Design Patterns, OOP
-- DevOps: Docker, docker-compose, WSL, Bash
+- DevOps: Docker, docker-compose, podman
 - Little experience: WPF, WinForms, Avalonia
 
 - Other technologies:
