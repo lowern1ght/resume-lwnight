@@ -13,18 +13,19 @@
 
 ## Skills
 
-- Backend: C#, .NET, SQL, _DB_(PostgreSQL, SQLite), _OS_(Linux(Ubuntu, Fedora), Windows), ASP.NET Core, _NetCommunication_(REST, GraphQL, `TCP/UDP`)
-  - xUnit, Selenium, Benchmark.NET
-  
+- Backend: C#, .NET (Framework, Core), SQL, _DB_(PostgreSQL, SQLite), ASP.NET Core, 
+  - ORM: EntityFramework Core, **Dapper. ef migrations
+      - xUnit, Selenium, Benchmark.NET
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
-- General:  Multithreading, Asynchronous, Unit-test, Design Patterns, OOP
-- DevOps: Docker, docker-compose, podman
+- General:  Multithreading, Asynchronous, Unit-test, Clean code
+  - System Design: OOP, Design Patterns, OOP, *DDD, MVC
+- DevOps: Docker, docker-compose, podman, RabbitMQ, *nginx, 
+  - _OS_: Linux(Ubuntu, Fedora), Windows(Windows server 2008r2, Windows server 2016)
 - Little experience: WPF, WinForms, Avalonia
-
 - Other technologies:
   - CPP(c11, c17), Cmake, conan, SDL
   - 1C 8.3, 1C:EDT, УТ 11.5, ЭДО
-  - Rust
+  - *Rust
 
 ## Commercial experience
 
@@ -44,6 +45,41 @@
 - Mentor for interns
 
 ---
+
+## Own experience
+
+- Experience in designing mini-services on ASP.NET Core
+- Configuring docker-compose with internal communications of applications, such as decomposed services on ASP.NET, 
+  working with RabbitMQ with a reverse proxy server on nginx
+- Independent development of large applications with internal infrastructure
+
+## Pet projects
+
+1. [**OsiDosi**](https://github.com/lowern1ght/OsiDosi) - the project of an Asian cuisine application based on the DDD architectural 
+   pattern and the decomposition of 
+   services running on docker
+
+---
+
+2. [**Aviatia**](https://github.com/lowern1ght/Aviatia) - internal application for issuing airline tickets with authorization and 
+   Client application on React. 
+   Also works on docker-compose and decomposition
+
+---
+
+3. [Sharee](https://github.com/lowern1ght/Sharee) - a commercial web server for exchanging local changes for an internal relational database with its 
+   own authorization on tokens and the interface on RazorPages
+
+---
+
+4. [AlercroyBot](https://github.com/lowern1ght/AlercroyBot) - my open source template project for telegram bot with quick 
+   command settings when launching the application with documentation
+
+---
+
+5. [Otto](https://github.com/lowern1ght/Otto) - a mini web application with integration with third-party web apis for viewing weather by city with built-in 
+   city accounting and a web interface on RazorPages
+   - [OttoSpa](https://github.com/lowern1ght/OttoSpa) - redesign of the interface on vite React using Ant Design
 
 ## Educations
 
