@@ -14,8 +14,8 @@
 ## Skills
 
 - Backend: C#, .NET (Framework, Core), SQL, _DB_(PostgreSQL, SQLite), ASP.NET Core, 
+  - Testing: xUnit, Selenium, Benchmark.NET
   - ORM: EntityFramework Core, **Dapper. ef migrations
-      - xUnit, Selenium, Benchmark.NET
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
 - General:  Multithreading, Asynchronous, Unit-test, Clean code
   - System Design: OOP, Design Patterns, OOP, *DDD, MVC
