@@ -5,7 +5,7 @@
 **Russia, Nefteugansk**
 
 <span style="font-size: 14px; line-height: 0">
-  C# & TS/JS Developer
+    .NET & TS/JS Developer
 </span>
 
 ---
