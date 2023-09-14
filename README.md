@@ -18,10 +18,10 @@
   - ORM: EntityFramework Core, **Dapper. ef migrations
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
 - General:  Multithreading, Asynchronous, Unit-test, Clean code
-  - System Design: OOP, Design Patterns, OOP, *DDD, MVC
+  - System Design: Design Patterns, OOP, *DDD, MVC, *Microservices Architectures
 - DevOps: Docker, docker-compose, podman, RabbitMQ, *nginx, 
   - _OS_: Linux(Ubuntu, Fedora), Windows(Windows server 2008r2, Windows server 2016)
-- Little experience: WPF, WinForms, Avalonia
+- Little experience: WPF, WinForms, AvaloniaUI
 - Other technologies:
   - CPP(c11, c17), Cmake, conan, SDL
   - 1C 8.3, 1C:EDT, УТ 11.5, ЭДО
