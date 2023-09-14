@@ -19,7 +19,7 @@
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
 - General:  Multithreading, Asynchronous, Unit-test, Clean code
   - System Design: OOP, Design Patterns, OOP, *DDD, MVC
-- DevOps: Docker, docker-compose, podman, RabbitMQ, *nginx, 
+- DevOps: Docker, docker-compose, podman, RabbitMQ, *nginx, redis
   - _OS_: Linux(Ubuntu, Fedora), Windows(Windows server 2008r2, Windows server 2016)
 - Little experience: WPF, WinForms, Avalonia
 - Other technologies:
