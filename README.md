@@ -1,4 +1,4 @@
-<img src=".resources/me.png" alt="me" style="position: absolute; height: 230px; top: 0; right: 0" align="right"/>
+<img src=".resources/me.png" alt="me" style="position: absolute; height: 260px; top: 20px; right: 20px" align="right"/>
 
 # Alexander Sergeev
 
@@ -29,7 +29,7 @@
 
 ## Commercial experience
 
-<span style="font-size: 14px; line-height: 0">
+<span style="font-size: 14px; line-height: 4">
   <strong>Energosfera</strong>
   <p style="opacity: 0.5; line-height: 0">C#, 1C Developer</p>
 </span>
