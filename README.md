@@ -13,19 +13,19 @@
 
 ## Skills
 
-- Backend: C#, .NET (Framework, Core), SQL, _DB_(PostgreSQL, SQLite), ASP.NET Core, 
+- Backend: C#, .NET (Framework, Core), SQL, _DB_(PostgreSQL, SQLite), ASP.NET Core, LINQ(PLINQ), Ocelot 
   - Testing: xUnit, Selenium, Benchmark.NET
-  - ORM: EntityFramework Core, **Dapper. ef migrations
+  - ORM: EntityFramework Core, Dapper. ef migrations
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
 - General:  Multithreading, Asynchronous, Unit-test, Clean code
-  - System Design: Design Patterns, OOP, *DDD, MVC, *Microservices Architectures
-- DevOps: Docker, docker-compose, podman, RabbitMQ, *nginx, Redis
+  - System Design: Design Patterns, OOP, DDD, MVC, Microservices Architectures
+- DevOps: Docker, docker-compose, podman, RabbitMQ, nginx, Redis
   - _OS_: Linux(Ubuntu, Fedora), Windows(Windows server 2008r2, Windows server 2016)
-- Little experience: WPF, WinForms, AvaloniaUI
+- Have experience: WPF, WinForms, AvaloniaUI
 - Other technologies:
   - CPP(c11, c17), Cmake, conan, SDL
   - 1C 8.3, 1C:EDT, УТ 11.5, ЭДО
-  - *Rust
+  - Rust
 
 ## Commercial experience
 
