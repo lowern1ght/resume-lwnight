@@ -46,13 +46,6 @@
 
 ---
 
-## Own experience
-
-- Experience in designing mini-services on ASP.NET Core
-- Configuring docker-compose with internal communications of applications, such as decomposed services on ASP.NET, 
-  working with RabbitMQ with a reverse proxy server on nginx
-- Independent development of large applications with internal infrastructure
-
 ## Pet projects
 
 1. [**Garther**](https://github.com/lowern1ght/Sharee) - an open project on a production-ready forum engine on 
