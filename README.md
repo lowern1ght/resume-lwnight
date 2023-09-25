@@ -37,6 +37,7 @@
 > 2021 - 2023..
 
 - Successful application development on .NET, 1C
+- Developing services and monolithic web-application on ASP.NET Core
 - Communicate and collaborate effectively with other team members
 - Development and integration of solutions for working with commercial equipment
 - Participation in the planning of architectural solutions
