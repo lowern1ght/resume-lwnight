@@ -13,8 +13,9 @@
 
 ## Skills
 
-- Backend: C#, .NET (Framework, Core), SQL, _DB_(PostgreSQL, SQLite), ASP.NET Core, LINQ(PLINQ), Ocelot 
+- Backend: C#, .NET (Framework, Core), SQL, _DB_(PostgreSQL, SQLite), ASP.NET Core, LINQ(PLINQ)
   - Testing: xUnit, Selenium, Benchmark.NET
+  - Libs: AutoMapper, AutoFac, MSDI, Swagger, Ocelot
   - ORM: EntityFramework Core, Dapper. ef migrations
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
 - General:  Multithreading, Asynchronous, Unit-test, Clean code
