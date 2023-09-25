@@ -19,7 +19,8 @@
   - ORM: EntityFramework Core, Dapper. ef migrations
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
 - General:  Multithreading, Asynchronous, Unit-test, Clean code
-  - System Design: *Design Patterns, OOP, DDD, MVC, Microservices Architectures
+  - System Design: Design Patterns, OOP, DDD, MVC, Microservices Architectures
+  - Communication: REST, GraphQL, TCP/UDP
 - DevOps: Docker, docker-compose, podman, RabbitMQ, nginx, Redis
   - _OS_: Linux(Ubuntu, Fedora), Windows(Windows server 2008r2, Windows server 2016)
 - Have experience: WPF, WinForms, AvaloniaUI
