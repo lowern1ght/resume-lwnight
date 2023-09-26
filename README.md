@@ -79,7 +79,7 @@
 * **Secondary Special Education**
   - Graduated with honors from the Polytechnic College
 
-### Hobbies
+## Hobbies
 
 I have been doing 3D graphics for more than 5 years
 - Blender, 3D Max, Substance Painter, Mixer/Bridge, Marvelous Designer
