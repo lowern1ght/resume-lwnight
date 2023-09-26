@@ -28,9 +28,6 @@
   - CPP(c11, c17), Cmake, conan, SDL
   - 1C 8.3, 1C:EDT, УТ 11.5, ЭДО
   - Rust
-- Hobbies:
-  - I have been doing 3D graphics for more than 5 years
-    - Blender, 3D Max, Substance Painter, Mixer/Bridge, Marvelous Designer
 
 ## Commercial experience
 
@@ -86,6 +83,11 @@
 <div align="center">
 
 ---
+
+### Hobbies
+
+I have been doing 3D graphics for more than 5 years
+- Blender, 3D Max, Substance Painter, Mixer/Bridge, Marvelous Designer
 
 ### Contacts
 
