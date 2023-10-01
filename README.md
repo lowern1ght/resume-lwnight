@@ -13,19 +13,21 @@
 
 ## Skills
 
-- Backend: C#, .NET (Framework, Core), SQL, _DB_(PostgreSQL, SQLite), ASP.NET Core, 
+- Backend: C#, .NET (Framework, Core), SQL, _DB_(PostgreSQL, SQLite), ASP.NET Core, LINQ(PLINQ)
   - Testing: xUnit, Selenium, Benchmark.NET
-  - ORM: EntityFramework Core, **Dapper. ef migrations
+  - Libs: AutoMapper, AutoFac, MSDI, Swagger, Ocelot
+  - ORM: EntityFramework Core, Dapper. ef migrations
 - Frontend: JS/TS, Node.JS, React, Vite, HTML, CSS, Bootstrap, Ant Design, Tailwind
 - General:  Multithreading, Asynchronous, Unit-test, Clean code
-  - System Design: Design Patterns, OOP, *DDD, MVC, *Microservices Architectures
-- DevOps: Docker, docker-compose, podman, RabbitMQ, *nginx, Redis
-  - _OS_: Linux(Ubuntu, Fedora), Windows(Windows server 2008r2, Windows server 2016)
-- Little experience: WPF, WinForms, AvaloniaUI
+  - System Design: Design Patterns, OOP, DDD, MVC, Microservices Architectures
+  - Communication: REST, GraphQL, TCP/UDP
+- DevOps: Docker, docker-compose, podman, RabbitMQ, nginx, Redis, Zabbix
+  - _OS_: Linux, Windows
+- Have experience: WPF, WinForms, AvaloniaUI
 - Other technologies:
   - CPP(c11, c17), Cmake, conan, SDL
   - 1C 8.3, 1C:EDT, УТ 11.5, ЭДО
-  - *Rust
+  - Rust
 
 ## Commercial experience
 
@@ -37,6 +39,7 @@
 > 2021 - 2023..
 
 - Successful application development on .NET, 1C
+- Developing services and monolithic web-application on ASP.NET Core
 - Communicate and collaborate effectively with other team members
 - Development and integration of solutions for working with commercial equipment
 - Participation in the planning of architectural solutions
@@ -75,6 +78,10 @@
 * **Secondary Special Education**
   - Graduated with honors from the Polytechnic College
 
+## Hobbies
+
+I have been doing 3D graphics for more than 5 years
+- Blender, 3D Max, Substance Painter, Mixer/Bridge, Marvelous Designer
 
 <div align="center">
 
