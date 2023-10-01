@@ -46,13 +46,6 @@
 
 ---
 
-## Own experience
-
-- Experience in designing mini-services on ASP.NET Core
-- Configuring docker-compose with internal communications of applications, such as decomposed services on ASP.NET, 
-  working with RabbitMQ with a reverse proxy server on nginx
-- Independent development of large applications with internal infrastructure
-
 ## Pet projects
 
 1. [**Garther**](https://github.com/lowern1ght/Sharee) - an open project on a production-ready forum engine on 
@@ -60,19 +53,18 @@
 
 ---
 
-2. [Sharee](https://github.com/lowern1ght/Sharee) - a commercial web server for exchanging local changes for an internal relational database with its 
+2. [**Otto**](https://github.com/lowern1ght/Otto) - Microservice web application on docker with a web interface on React,
+    according to the 12FA approach
+
+---
+
+3. [Sharee](https://github.com/lowern1ght/Sharee) - a commercial web server for exchanging local changes for an internal relational database with its
    own authorization on tokens and the interface on RazorPages
 
 ---
 
-3. [AlercroyBot](https://github.com/lowern1ght/AlercroyBot) - my open source template project for telegram bot with quick 
+4. [AlercroyBot](https://github.com/lowern1ght/AlercroyBot) - my open source template project for telegram bot with quick
    command settings when launching the application with documentation
-
----
-
-4. [Otto](https://github.com/lowern1ght/Otto) - a mini web application with integration with third-party web apis for viewing weather by city with built-in 
-   city accounting and a web interface on RazorPages
-   - [OttoSpa](https://github.com/lowern1ght/OttoSpa) - redesign of the interface on vite React using Ant Design
 
 ## Educations
 
