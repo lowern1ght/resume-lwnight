@@ -98,11 +98,11 @@ recently switched to **UE5**
 
 ## Educations
 
-* **Quantorium**
-   - Graduated from the school of additional education in the IT, Hi Tech division
+* **Quantorium** — **2011 - 2016**
+   - Graduated from the school of additional education in the IT, Hi Tech division 
 
 
-* **Secondary Special Education**
+* **Secondary Special Education** — **2018 - 2023**
   - Graduated with honors from the Polytechnic College
 
 <div align="center">
