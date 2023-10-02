@@ -15,6 +15,8 @@ I believe that the fastest way, but also the most difficult way of
 learning is learning by practice, 
 so I spend most of my time practicing and consolidating ready-made skills
 
+> In general, I like to walk and live by it
+
  - I have been doing 3D and 2D graphics for more than 6 years
      * **Blender**, 3D Max, Maya
      * **Substance Painter**, Mixer/Bridge
