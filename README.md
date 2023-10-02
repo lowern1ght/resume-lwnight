@@ -12,10 +12,10 @@ in a semi-professional cs:go league, was in the role of captain
  - I am fond of artificial intelligence, machine learning, automation of everyday life. I read a lot of technical literature, 
 look through conferences and work out in practice. Here it is necessary to tell a little more about my feature. 
 I believe that the fastest way, but also the most difficult way of 
-learning is learning by practice, 
-so I spend most of my time practicing and consolidating ready-made skills
+learning is learning by practice, so. 
+I spend most of my time practicing and consolidating ready-made skills
 
-> In general, I like to walk and live by it
+> In general, I like to coding and live by it
 
  - I have been doing 3D and 2D graphics for more than 6 years
      * **Blender**, 3D Max, Maya
