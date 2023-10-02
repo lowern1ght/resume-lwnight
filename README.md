@@ -68,8 +68,7 @@ recently switched to **UE5**
 - Independent project management
 - Successful application development on .NET, 1C
 - Development of services and a monolithic web application on ASP.NET Core
-- Communicate and collaborate effectively with other team members
-- Development and integration of solutions for working with commercial equipment
+- Integration of solutions for working with commercial equipment
 - Participation in the planning of architectural solutions
 - Code analysis and refactoring
 
