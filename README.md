@@ -77,7 +77,7 @@ recently switched to **UE5**
 
 ## Pet projects
 
-1. [**Garther**](https://github.com/lowern1ght/Sharee) - an open project on a production-ready forum engine on 
+1. [**Garther**](https://github.com/lowern1ght/Garther) - an open project on a production-ready forum engine on 
     a microservice architecture using the DDD, 12FA approach
 
 ---
