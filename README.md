@@ -54,11 +54,11 @@ He wrote mini utilities for unix systems, **high-performance** parsers, **voice 
  - I love games insanely, from the side of the idea. I love making games. I work a lot in **UE4**, 
 recently switched to **UE5**
 
-* CPP(11, 14, 17),
-    * boost
-    * SDL2
-* vcpkg, conan
-* Cmake
+* **CPP**(11, 14, **17**),
+    * **boost**
+    * **SDL2**
+* vcpkg, **conan**
+* **Cmake**
 
 ## Work experience
 
