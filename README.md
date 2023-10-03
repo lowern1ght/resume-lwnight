@@ -45,7 +45,7 @@ I spend most of my time practicing and consolidating ready-made skills
 
 * **Unit tests**, **E2E**, **Integration tests**
   * I have experience writing unit tests on **xUnit**, **gtest**. Evaluation of module performance via **Benchmark.NET**. 
-  I wrote **integration** and **e2e** tests, wrote according to the **TDD** method
+  Wrote **integration** and **e2e** tests, wrote according to the **TDD** method
 
 ### Secondary study
 
