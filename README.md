@@ -28,7 +28,7 @@ I spend most of my time practicing and consolidating ready-made skills
 * **.NET**, **C#**, **ASP NET**, **EntityFramework**, **Dapper**
   * I have been writing in c# for more than 3 years.
   There are a lot of web applications written in ASP, a lot of experience working with 
-  **MSDI** and **AutoFac** IoT containers. I also own **AutoMapper**, **Moq**, **Benchmark.NET**
+  **MSDI** and **AutoFac** IoT containers. I also own **AutoMapper**, **Moq**
 
 * **JS/TS**, **Node.js**, **React**
   * As I wrote earlier, I have been doing frontend development since childhood,
@@ -42,6 +42,10 @@ I spend most of my time practicing and consolidating ready-made skills
 * **System Design**, **OOP**, **SOLID**, **Design Patterns**, **DDD**, **CQRS**
   * Developed and designed systems with Clean Architecture and DDD application. I have also designed and have experience 
   working with microservice architecture, I am familiar with most design patterns
+
+* **Unit tests**, **E2E**, **Integration tests**
+  * I have experience writing unit tests on **xUnit**, **gtest**. Evaluation of module performance via **Benchmark.NET**. 
+  I wrote **integration** and **e2e** tests, wrote according to the **TDD** method
 
 ### Secondary study
 
