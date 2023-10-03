@@ -7,7 +7,7 @@
 
  - Hi, my name is Sasha😊, I specialize in web application development. I've been interested in programming since I was 12. 
 I started with website development, freelancing from the age of 17.
- - Quite sociable, very capable guy, really learning fast. As a teenager, he participated 
+ - Quite sociable, very capable guy, really learning fast. As a teenager, participated 
 in a semi-professional cs:go league, was in the role of captain
  - I am fond of artificial intelligence, machine learning, automation of everyday life. I read a lot of technical literature, 
 look through conferences and work out in practice. Here it is necessary to tell a little more about my feature. 
