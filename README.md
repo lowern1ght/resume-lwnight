@@ -96,23 +96,28 @@ recently switched to **UE5**
 
 ## Pet projects
 
-1. [**Garther**](https://github.com/lowern1ght/Garther) - an open project on a production-ready forum engine on 
+1. [**OpenTrader**](https://github.com/lowern1ght/OpenTrader) - is an advanced cryptocurrency trader bot based on microservice architecture. 
+   It is a powerful solution that utilizes a wide range of advanced technologies...
+
+---
+
+2. [**Garther**](https://github.com/lowern1ght/Garther) - an open project on a production-ready forum engine on 
     a microservice architecture using the DDD, 12FA approach
 
 ---
 
-2. [**Otto**](https://github.com/lowern1ght/Otto) - Microservice weather checker web application on docker with 
+3. [**Otto**](https://github.com/lowern1ght/Otto) - Microservice weather checker web application on docker with 
    a web interface on React, 
    according to the 12FA approach
 
 ---
 
-3. [Sharee](https://github.com/lowern1ght/Sharee) - a commercial web server for exchanging local changes for an internal relational database with its
+4. [Sharee](https://github.com/lowern1ght/Sharee) - a commercial web server for exchanging local changes for an internal relational database with its
    own authorization on tokens and the interface on RazorPages
 
 ---
 
-4. [AlercroyBot](https://github.com/lowern1ght/AlercroyBot) - my open source template project for telegram bot with quick
+5. [AlercroyBot](https://github.com/lowern1ght/AlercroyBot) - my open source template project for telegram bot with quick
    command settings when launching the application with documentation
 
 ## Educations
