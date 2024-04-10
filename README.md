@@ -63,17 +63,33 @@ recently switched to **UE5**
 
 <span style="font-size: 14px; line-height: 4">
   <strong>Energosfera</strong>
-  <p style="opacity: 0.5; line-height: 0">C#, ASP NET</p>
 </span>
 
-> 2021 - For Now
+> 2021 - 2023
 
 - Independent project management
 - Successful application development on .NET, 1C
 - Development of services and a monolithic web application on ASP.NET Core
 - Integration of solutions for working with commercial equipment
 - Participation in the planning of architectural solutions
+- Development of web-api for interaction with the front end
+- Writing benchmark, unit tests
 - Code analysis and refactoring
+
+<span style="font-size: 24px; line-height: 4">
+    <img src=".resources/work-icons/hybrid.jpg" style="height: 18px; margin-right: 2px" alt="hybrid_icon">
+    <strong>Hybrid</strong> <a style="font-size: 12px">hybrid.ai</a>
+</span>
+
+> 2023 - For now
+
+- Bug fixes
+- Development and design of reporting, notification service, statistics
+- Global migration of monolith from .net framework to .net 8 with further refactoring and breakdown into services
+- Documentation and deployment of internal libraries and services
+- Work with testing services, migration of old ones, development of new ones
+- Authorization refactoring and implementation of new features
+- Fixing nightly releases)
 
 ---
 
