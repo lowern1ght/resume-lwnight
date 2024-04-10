@@ -72,8 +72,6 @@ recently switched to **UE5**
 - Development of services and a monolithic web application on ASP.NET Core
 - Integration of solutions for working with commercial equipment
 - Participation in the planning of architectural solutions
-- Development of web-api for interaction with the front end
-- Writing benchmark, unit tests
 - Code analysis and refactoring
 
 <span style="font-size: 24px; line-height: 4">
@@ -89,6 +87,9 @@ recently switched to **UE5**
 - Documentation and deployment of internal libraries and services
 - Work with testing services, migration of old ones, development of new ones
 - Authorization refactoring and implementation of new features
+- Universalization by means of reflection and the development of a tree
+- Development of web-api for interaction with the front end
+- Writing benchmark, unit tests
 - Fixing nightly releases)
 
 ---
