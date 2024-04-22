@@ -133,7 +133,7 @@ recently switched to **UE5**
 5. [AlercroyBot](https://github.com/lowern1ght/AlercroyBot) - my open source template project for telegram bot with quick
    command settings when launching the application with documentation
 
-## Educations
+## - Educations
 
 * **Quantorium** — **2011 - 2016**
    - Graduated from the school of additional education in the IT, Hi Tech division 
