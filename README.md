@@ -36,6 +36,9 @@ I spend most of my time practicing and consolidating ready-made skills
   I started doing Node.js and react in depth a year ago.
   Have little experience writing client-side in Angular, Vue
 
+* **GitLab**, **TeamCity**
+  * Writing build configurations, customizing agents, working with parameters
+
 * **Docker**, **Redis**, **RabbitMQ**, **PostgreSQL**, **SQLite**, **ElasticStack**, **MongoDB**, **Minio**
   * I've been in deploy for about a year, I feel very comfortable in unix, windows. 
   Set up integration of microservice and narrowly focused corporate applications
