@@ -3,7 +3,7 @@
 
 ---
 
-## Who went and how
+## - Who went and how
 
  - Hi, my name is Sasha😊, I specialize in web application development. I've been interested in programming since I was 12. 
 I started with website development, freelancing from the age of 17.
@@ -22,21 +22,26 @@ I spend most of my time practicing and consolidating ready-made skills
      * **Marvelous Designer**
      * **Photoshop**, **Figma**, **Illustrator**
 
-## Skills and experience
+## - Skills and experience
 
 * **.NET**, **C#**, **ASP NET**, **EntityFramework**, **Dapper**
-  * I have been writing in c# for more than 3 years.
+  * I have been writing in c# for more than 4 years.
   There are a lot of web applications written in ASP, a lot of experience working with 
-  **MSDI** and **AutoFac** IoT containers. I also own **AutoMapper**, **Moq**
+  **MSDI** and **AutoFac** IoT containers.
+  * Work with **asynchronous**, **parallelism**, 
+  * Development of authorization using `ASP Identity`
 
-* **JS/TS**, **Node.js**, **React**
+* **JS/TS**, **Node.js**, **React**, **Ant Design**, **BlueprintJS**
   * As I wrote earlier, I have been doing frontend development since childhood,
   I started doing Node.js and react in depth a year ago.
   Have little experience writing client-side in Angular, Vue
 
-* **Docker**, **Redis**, **RabbitMQ**, **PostgreSQL**, **SQLite**, **ElasticStack**
+* **Docker**, **Redis**, **RabbitMQ**, **PostgreSQL**, **SQLite**, **ElasticStack**, **MongoDB**, **Minio**
   * I've been in deploy for about a year, I feel very comfortable in unix, windows. 
   Set up integration of microservice and narrowly focused corporate applications
+
+* **Prometheus**, **Grafana**, **Zabbix**
+  * Setting up logging and metrics accounting with the above systems, indexing implementation, healthcheck setup
 
 * **System Design**, **OOP**, **SOLID**, **Design Patterns**, **DDD**, **CQRS**
   * Developed and designed systems with Clean Architecture and DDD application. I have also designed and have experience 
@@ -44,9 +49,9 @@ I spend most of my time practicing and consolidating ready-made skills
 
 * **Unit tests**, **E2E**, **Integration tests**
   * I have experience writing unit tests on **xUnit**, **gtest**. Evaluation of module performance via **Benchmark.NET**. 
-  Wrote **integration** and **e2e** tests, wrote according to the **TDD** method
+  Wrote **integration** and **e2e** tests, wrote according to the **TDD** method, **Moq**
 
-### Secondary study
+### - Secondary study
 
  - I have loved **cpp** very much since I was 16, and I am still fond of low-level languages. Recently I started to study **Rust**.
 He wrote mini utilities for unix systems, **high-performance** parsers, **voice assistants**
@@ -59,7 +64,7 @@ recently switched to **UE5**
 * vcpkg, **conan**
 * **Cmake**
 
-## Work experience
+## - Work experience
 
 <span style="font-size: 14px; line-height: 4">
   <strong>Energosfera</strong>
@@ -90,11 +95,12 @@ recently switched to **UE5**
 - Universalization by means of reflection and the development of a tree
 - Development of web-api for interaction with the front end
 - Writing benchmark, unit tests
+- Planner infrastructure design and development, ui design, frontend ui development
 - Fixing nightly releases)
 
 ---
 
-## Pet projects
+## - Pet projects
 
 1. [**OpenTrader**](https://github.com/lowern1ght/OpenTrader) - is an advanced cryptocurrency trader bot based on microservice architecture. 
    It is a powerful solution that utilizes a wide range of advanced technologies...
@@ -133,7 +139,7 @@ recently switched to **UE5**
 
 ---
 
-### Contacts
+### - Contacts
 
 [lowern1ght@yahoo.com](mailto:lowern1ght@yahoo.com) ⁕ +7(902)8535680 ⁕ [telegram](https://t.me/lowern1ght) ⁕ [CodeWars](https://www.codewars.com/users/lowern1ght)
 
