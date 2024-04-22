@@ -51,7 +51,7 @@ I spend most of my time practicing and consolidating ready-made skills
   * Working with s3 storage, deployment and connectivity
 
 * **Kafka**, **RabbitMQ**
-  * Working with brokers using roaming, integration via `MassTransit` and common clients
+  * Working with brokers, integration via `MassTransit` and common clients
 
 * **Prometheus**, **Grafana**, **Zabbix**
   * Setting up logging and metrics accounting with the above systems, indexing implementation, healthcheck setup
