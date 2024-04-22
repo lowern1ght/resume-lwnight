@@ -42,10 +42,13 @@ I spend most of my time practicing and consolidating ready-made skills
 * **GitLab**, **TeamCity**
   * Writing build configurations, customizing agents, working with parameters
 
-* **Docker**, **Redis**, **RabbitMQ**, **PostgreSQL**, **SQLite**, **ElasticStack**, **MongoDB**, **Minio**, **ClickHouse**
+* **Docker**, **Redis**, **PostgreSQL**, **SQLite**, **ElasticStack**, **MongoDB**, **Minio**, **ClickHouse**
   * I've been in deploy for about a year, I feel very comfortable in unix, windows.
   * Using ClickHouse for statistics, working with state aggregation
   Set up integration of microservice and narrowly focused corporate applications
+
+* **Kafka**, **RabbitMQ**
+  * Working with brokers using roaming, integration via `MassTransit` and common clients
 
 * **Prometheus**, **Grafana**, **Zabbix**
   * Setting up logging and metrics accounting with the above systems, indexing implementation, healthcheck setup
