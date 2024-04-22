@@ -24,6 +24,9 @@ I spend most of my time practicing and consolidating ready-made skills
 
 ## - Skills and experience
 
+* **Jira**, **Confluence**, **Notion**
+  * Work with task tracking in Jira, record documentation in the Confluence
+
 * **.NET**, **C#**, **ASP NET**, **EntityFramework**, **Dapper**
   * I have been writing in c# for more than 4 years.
   There are a lot of web applications written in ASP, a lot of experience working with 
@@ -39,8 +42,9 @@ I spend most of my time practicing and consolidating ready-made skills
 * **GitLab**, **TeamCity**
   * Writing build configurations, customizing agents, working with parameters
 
-* **Docker**, **Redis**, **RabbitMQ**, **PostgreSQL**, **SQLite**, **ElasticStack**, **MongoDB**, **Minio**
-  * I've been in deploy for about a year, I feel very comfortable in unix, windows. 
+* **Docker**, **Redis**, **RabbitMQ**, **PostgreSQL**, **SQLite**, **ElasticStack**, **MongoDB**, **Minio**, **ClickHouse**
+  * I've been in deploy for about a year, I feel very comfortable in unix, windows.
+  * Using ClickHouse for statistics, working with state aggregation
   Set up integration of microservice and narrowly focused corporate applications
 
 * **Prometheus**, **Grafana**, **Zabbix**
@@ -138,12 +142,8 @@ recently switched to **UE5**
 * **Secondary Special Education** — **2018 - 2023**
   - Graduated with honors from the Polytechnic College
 
-<div align="center">
-
 ---
 
 ### - Contacts
 
 [lowern1ght@yahoo.com](mailto:lowern1ght@yahoo.com) ⁕ +7(902)8535680 ⁕ [telegram](https://t.me/lowern1ght) ⁕ [CodeWars](https://www.codewars.com/users/lowern1ght)
-
-</div>
