@@ -42,10 +42,13 @@ I spend most of my time practicing and consolidating ready-made skills
 * **GitLab**, **TeamCity**
   * Writing build configurations, customizing agents, working with parameters
 
-* **Docker**, **Redis**, **PostgreSQL**, **SQLite**, **ElasticStack**, **MongoDB**, **Minio**, **ClickHouse**
+* **Docker**, **Redis**, **PostgreSQL**, **SQLite**, **ElasticStack**, **MongoDB**, **ClickHouse**
   * I've been in deploy for about a year, I feel very comfortable in unix, windows.
   * Using ClickHouse for statistics, working with state aggregation
   Set up integration of microservice and narrowly focused corporate applications
+
+* **Minio**, **AWS Accepted**
+  * Working with s3 storage, deployment and connectivity
 
 * **Kafka**, **RabbitMQ**
   * Working with brokers using roaming, integration via `MassTransit` and common clients
@@ -60,6 +63,10 @@ I spend most of my time practicing and consolidating ready-made skills
 * **Unit tests**, **E2E**, **Integration tests**
   * I have experience writing unit tests on **xUnit**, **gtest**. Evaluation of module performance via **Benchmark.NET**. 
   Wrote **integration** and **e2e** tests, wrote according to the **TDD** method, **Moq**
+
+* **Windows**, **Linux**
+  * Comfortable on all major OS, I've been configuring and messing around with Linux for over 4 years. 
+  * Configured a home server to use the
 
 ### - Secondary study
 
