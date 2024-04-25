@@ -12,6 +12,10 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
 
 ---
 
+> PDF Version: `CV.pdf`
+
+---
+
 ## Common Technology Stack
 
 `C#`, `.NET Core`, `.NET Framework`, `ASP.NET Core`, `JS/TS`, `React` `NextJS`, `WebStack (HTML, CSS)`,
