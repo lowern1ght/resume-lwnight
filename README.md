@@ -95,5 +95,5 @@ I study **English**, help newcomers to develop, and generally having a great tim
 ## Contacts
 
 * [Telegram](https://t.me/lowern1ght) 
-* Телефон: +7(902)8535680
+* Telephone: +7(902)8535680
 * Email: [lowern1ght@yahoo.com](mailto:lowern1ght@yahoo.com)
