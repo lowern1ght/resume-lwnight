@@ -12,6 +12,10 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
 
 ---
 
+> PDF Version: `CV.pdf`
+
+---
+
 ## Common Technology Stack
 
 `C#`, `.NET Core`, `.NET Framework`, `ASP.NET Core`, `JS/TS`, `React` `NextJS`, `WebStack (HTML, CSS)`,
@@ -65,6 +69,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       * Transferring synchronous code to asynchronous, writing http client to work with third-party api
       * Design and implementation of **MVP** of the **notification service**
       * Development of back-end **scheduler controller**(~~Cyclex~~) application with UI on **React**
+      * Transferring task scheduler to microservices with **Kafka** message broker
 
     - **DevOps cycle**:
       * Configuring **docker-compose**, deploying services in **k8s** cluster.
