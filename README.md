@@ -65,6 +65,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
         - Complex metrics in statistics, optimization of **ClickHouse** queries, working with **complex queries**
         - Development of pagination, new http clients, integrations with other teams
         - Leading a separate module for communicating and sending data to advertising data operators
+        - Design and develop MVP notification service on message broker pattern with **RabbitMQ**
       * Development of product tasks in **Advertising**/**Marketing**, introduction of new practices
       * Transferring synchronous code to asynchronous, writing http client to work with third-party api
       * Design and implementation of **MVP** of the **notification service**
