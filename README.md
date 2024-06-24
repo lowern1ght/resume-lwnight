@@ -54,6 +54,10 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
     * Deployed, configured **RabbitMQ** for use as a message broker
     * Configuring **PostgreSQL**, working with configs, metrics via **Zabbix**
 
+  * Stack:
+    `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `JS/TS`, `React`, `CPP`, `Docker`, `Prometheus/Grafana`, `Zabbix`, 
+    `PostgreSQL`, `Redis`,`RabbitMq`, `Elasticsearch`, `Logstash`, `Kibana`
+
 *  | Period   |  2023 - For now   |
    |----------|:-----------------:|
    | Position | Backend Developer |
@@ -71,6 +75,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       * Design and implementation of **MVP** of the **notification service**
       * Development of back-end **scheduler controller**(~~Cyclex~~) application with UI on **React**
       * Transferring task scheduler to microservices with **Kafka** message broker
+      * Writing 2 **MVP** frontend application on `React` for internal using
 
     - **DevOps cycle**:
       * Configuring **docker-compose**, deploying services in **k8s** cluster.
@@ -78,6 +83,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       * Configuring and deploying **log** indexing for back-end applications via **Elasticsearch**, **Kibana**.
       * Setting up a microservice environment via **CI/CD** **GitLab**, **TeamCity**.
       * Deploying and configuring **Prometheus**, **Grafana**, **Zabbix** for tracing back-end application metrics.
+      * Setup develop `k8s cluster` on `k3s` with **Ansible**
 
     - **Life of the team**:
       * Onboarding new developers.
@@ -87,6 +93,11 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       * Consultation with the **support** department.
       * Writing **documentation** to run **internal applications** developed by the team.
       * Participating in **releases**, fixing problems encountered.
+
+      * Stack:
+      `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `MassTransit`, `JS/TS`, 
+      `xUnit`, `MSUnit`, `Benchmark.NET`, `React`, `Vue`, `Docker`, `K8s`, `Nginx`, `IIS`, 
+      `Prometheus/Grafana`, `Zabbix`, `PostgreSQL`, `RabbitMq`, `Kafka`, `Elasticsearch`, `Kibana`
 
 ## Other
 
