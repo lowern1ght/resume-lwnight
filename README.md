@@ -67,7 +67,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
     - **Development life cycle**:
       * Development of new functionality in WebApi on ASP.NET Core:
         - Complex metrics in statistics, optimization of **ClickHouse** queries, working with **complex queries**
-        - Development of pagination, new http clients, integrations with other teams
+        - Development of new http clients (**Refit**, **Refitter**, **Polly**), integrations with other teams
         - Leading a separate module for communicating and sending data to advertising data operators
         - Design and develop MVP notification service on message broker pattern with **RabbitMQ**
       * Development of product tasks in **Advertising**/**Marketing**, introduction of new practices
