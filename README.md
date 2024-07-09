@@ -84,6 +84,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       * Setting up a microservice environment via **CI/CD** **GitLab**, **TeamCity**.
       * Deploying and configuring **Prometheus**, **Grafana**, **Zabbix** for tracing back-end application metrics.
       * Setup develop `k8s cluster` on `k3s` with **Ansible**
+      * Setup nuget server
 
     - **Life of the team**:
       * Onboarding new developers.
