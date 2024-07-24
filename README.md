@@ -76,8 +76,10 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       * Development of back-end **scheduler controller**(~~Cyclex~~) application with UI on **React**
       * Transferring task scheduler to microservices with **Kafka** message broker
       * Writing 2 **MVP** frontend application on `React` for internal using
+      * Supporting the refactoring plan
+      * Optimization and improvement of legacy code
 
-    - **DevOps cycle**:
+      - **DevOps cycle**:
       * Configuring **docker-compose**, deploying services in **k8s** cluster.
       * Setting up **IIS** pool, and raising reverse proxy through **Nginx**, for back end and front end.
       * Configuring and deploying **log** indexing for back-end applications via **Elasticsearch**, **Kibana**.
