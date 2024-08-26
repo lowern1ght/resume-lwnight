@@ -5,7 +5,7 @@
 ## About me
 
  - Hi, my name is Sasha😊, I specialize in **web application** development particularly **Backend**.
-I have been writing in **C#** and ts for **over 3 years**,
+I have been writing in **C#** and ts for **over 4 years**,
 ready for any challenges, great at **teamwork**, **happy to collaborate**
 
 > Location: `Russia`, Nefteugansk
