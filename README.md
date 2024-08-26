@@ -19,9 +19,9 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
 ## Common Technology Stack
 
 `C#`, `.NET Core`, `.NET Framework`, `ASP.NET Core`, `JS/TS`, `React` `NextJS`, `WebStack (HTML, CSS)`,
-`PostgreSQL`, `MongoDB`, `ClickHouse`, `Redis`, `ELK(Elastic Stack)`, `Nginx`, `Kafka`, `RabbitMQ`,  `Docker`, `Prometheus`, `Grafana`, 
-`Zabbix`, `Docker`, `Docker Compose`, `K8s(Kubernetes)`, `EntityFramework`, `Dapper`, `Linq2Db`, `MassTransint`, `Benchmark.NET`, 
-`xUnit`, `Moq`
+`PostgreSQL`, `MongoDB`, `ClickHouse`, `Redis`, `ELK(Elastic Stack)`, `Nginx`, `Kafka`, `RabbitMQ`, `Prometheus`, `Grafana`, 
+`Zabbix`, `Docker`, `Docker Compose`, `K8s`, `EntityFramework6/Core`, `Dapper`, `Linq2Db`, `MassTransint`, `Benchmark.NET`, 
+`xUnit`, `Moq`, `AutoMoq`
 
 - Not basic skills:
 
@@ -29,10 +29,11 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
 
 ## Work experience
 
-*  | Period   |     2021 - 2023     |
-   |----------|:-------------------:|
-   | Position | FullStack Developer |
-   | Company  |     Energosfera     |
+*  | Period             |          2020 - 2023           |
+   |--------------------|:------------------------------:|
+   | Position           | **Middle** FullStack Developer |
+*  | Specialization     |             Retail             |
+   | Company            |          Energosfera           |
 
 - Responsibilities:
 
@@ -58,16 +59,18 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
     `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `JS/TS`, `React`, `CPP`, `Docker`, `Prometheus/Grafana`, `Zabbix`, 
     `PostgreSQL`, `Redis`,`RabbitMq`, `Elasticsearch`, `Logstash`, `Kibana`
 
-*  | Period   |  2023 - For now   |
-   |----------|:-----------------:|
-   | Position | Backend Developer |
-   | Company  |     Hybrid.ai     |
+*  | Period         |        2023 - For now        |
+   |----------------|:----------------------------:|
+   | Position       | **Senior** Backend Developer |
+   | Specialization |          Marketing           |
+   | Company        |          Hybrid.ai           |
 
 - Responsibilities:
     - **Development life cycle**:
       * Development of new functionality in WebApi on ASP.NET Core:
         - Complex metrics in statistics, optimization of **ClickHouse** queries, working with **complex queries**
-        - Development of new http clients (**Refit**, **Refitter**, **Polly**), integrations with other teams
+        - Development of new http clients (**Refit**, **Polly**), integrations with other teams
+          - Setup circuit breaker, retry after, error logic
         - Leading a separate module for communicating and sending data to advertising data operators
         - Design and develop MVP notification service on message broker pattern with **RabbitMQ**
       * Development of product tasks in **Advertising**/**Marketing**, introduction of new practices
@@ -78,15 +81,20 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       * Writing 2 **MVP** frontend application on `React` for internal using
       * Supporting the refactoring plan
       * Optimization and improvement of legacy code
+        * Refactoring internal library
+        * Optimization for high-load
+      * Configure MiniProfiler with multi-application management
+      * Setup `CI/CD` to ui **auto-test** on `selenium hub`
 
       - **DevOps cycle**:
+      * Setup nuget server
+      * Setup `k8s cluster` with **Ansible**
+      * Configure Elasticsearch Cluster, decorate exists system logging
       * Configuring **docker-compose**, deploying services in **k8s** cluster.
       * Setting up **IIS** pool, and raising reverse proxy through **Nginx**, for back end and front end.
       * Configuring and deploying **log** indexing for back-end applications via **Elasticsearch**, **Kibana**.
       * Setting up a microservice environment via **CI/CD** **GitLab**, **TeamCity**.
       * Deploying and configuring **Prometheus**, **Grafana**, **Zabbix** for tracing back-end application metrics.
-      * Setup develop `k8s cluster` on `k3s` with **Ansible**
-      * Setup nuget server
 
     - **Life of the team**:
       * Onboarding new developers.
@@ -97,15 +105,11 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       * Writing **documentation** to run **internal applications** developed by the team.
       * Participating in **releases**, fixing problems encountered.
 
-      * Stack:
-      `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `MassTransit`, `JS/TS`, 
-      `xUnit`, `MSUnit`, `Benchmark.NET`, `React`, `Vue`, `Docker`, `K8s`, `Nginx`, `IIS`, 
+      * Stack using on position:
+      `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `EFCore`, `MassTransit`, 
+      `Kafka`, `Redis`, `RabbitMQ`, `JS/TS`, `xUnit`, `MSUnit`, `Benchmark.NET`, 
+      `React`, `Docker`, `K8s`, `Nginx`, `IIS`, `JMeter`, `Ansible`
       `Prometheus/Grafana`, `Zabbix`, `PostgreSQL`, `RabbitMq`, `Kafka`, `Elasticsearch`, `Kibana`
-
-## Other
-
-In my spare time I write a [cryptocurrency trader bot on microservices](https://github.com/lowern1ght/OpenTrader). 
-I study **English**, help newcomers to develop, and generally having a great time
 
 ## Contacts
 
