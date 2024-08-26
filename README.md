@@ -109,7 +109,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `EFCore`, `MassTransit`, 
       `Kafka`, `Redis`, `RabbitMQ`, `JS/TS`, `xUnit`, `MSUnit`, `Benchmark.NET`, 
       `React`, `Docker`, `K8s`, `Nginx`, `IIS`, `JMeter`, `Ansible`
-      `Prometheus/Grafana`, `Zabbix`, `PostgreSQL`, `RabbitMq`, `Kafka`, `Elasticsearch`, `Kibana`
+      `Prometheus/Grafana`, `Zabbix`, `PostgreSQL`, `RabbitMq`, `MongoDB` `Kafka`, `Elasticsearch`, `Kibana`
 
 ## Contacts
 
