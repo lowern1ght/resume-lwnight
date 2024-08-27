@@ -32,7 +32,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
 *  | Period             |          2020 - 2022           |
    |--------------------|:------------------------------:|
    | Position           | **Middle** FullStack Developer |
-*  | Specialization     |             Retail             |
+   | Specialization     |             Retail             |
    | Company            |          Energosfera           |
 
 - Responsibilities:
