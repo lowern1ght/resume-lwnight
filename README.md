@@ -97,13 +97,13 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
       * Deploying and configuring **Prometheus**, **Grafana**, **Zabbix** for tracing back-end application metrics.
 
     - **Life of the team**:
-      * Onboarding new developers.
-      * Leading the **refactoring/transfer** team.
-      * Preparation of a report for submission of an internal annex.
-      * Working on **Scrum**, **Jira**, **Confluence**.
-      * Consultation with the **support** department.
-      * Writing **documentation** to run **internal applications** developed by the team.
-      * Participating in **releases**, fixing problems encountered.
+      * Onboarding new developers
+      * Leading the **refactoring/transfer** team
+      * Preparation of a report for submission of an internal annex
+      * Working on **Scrum**, **Jira**, **Confluence**
+      * Consultation with the **support** department
+      * Writing **documentation** to run **internal applications** developed by the team
+      * Participating in **releases**, fixing problems encountered
 
       * Stack using on position:
       `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `EFCore`, `MassTransit`, 
