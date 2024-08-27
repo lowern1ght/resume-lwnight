@@ -29,7 +29,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
 
 ## Work experience
 
-*  | Period             |          2020 - 2023           |
+*  | Period             |          2020 - 2022           |
    |--------------------|:------------------------------:|
    | Position           | **Middle** FullStack Developer |
 *  | Specialization     |             Retail             |
@@ -59,7 +59,7 @@ ready for any challenges, great at **teamwork**, **happy to collaborate**
     `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `JS/TS`, `React`, `CPP`, `Docker`, `Prometheus/Grafana`, `Zabbix`, 
     `PostgreSQL`, `Redis`,`RabbitMq`, `Elasticsearch`, `Logstash`, `Kibana`
 
-*  | Period         |        2023 - For now        |
+*  | Period         |        2022 - For now        |
    |----------------|:----------------------------:|
    | Position       | **Senior** Backend Developer |
    | Specialization |          Marketing           |
