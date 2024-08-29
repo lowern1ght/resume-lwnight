@@ -31,7 +31,7 @@
 * Monitoring & Profiling: `Prometheus`, `Grafana`, `Elasticsearch`, `Kibana`, `Logstash`, `Loki`
 * Web/Application Servers: `nginx`, `traefik`, `IIS`, `IIS Express`, `self-hosted`
 * Orchestrators & Container Runtime: `Kubernetes`, `Docker Swarm`, `Podman`, `Docker`
-* Methodologies: SCRUM, Kanban, SOLID, Clean Code, ACID, TDD, DDD
+* Methodologies: `SCRUM`, `Kanban`, `SOLID`, `Clean Code`, `ACID`, `TDD`, `DDD`
 
 ---
 
