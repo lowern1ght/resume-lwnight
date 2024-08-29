@@ -83,7 +83,7 @@
     - Architecture planning for third-party projects, preparation of MVP solution.
     - Optimization of work with the database, ensuring fault tolerance of existing tools.
     - Support and fix legacy code with optimization of existing solutions in a constrained environment.
-    - Decompose and manage a team of 4 people refactoring and splitting the monolith into microservices.
+    - Manage a team of 4 people refactoring and splitting the monolith into microservices.
     - Setting up a ready-made production and development environment on **kubernetes** for new projects with **profiling**
 
 * #### Company stack:
