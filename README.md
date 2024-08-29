@@ -13,7 +13,7 @@
 ## Contacts
 
 * [Telegram](https://t.me/lowern1ght)
-* Telephone: +7(902)*****80 (Please, send me in mail or telegram)
+* Telephone: +7(902)*****80 (Please, contact me in mail or telegram)
 * Email: [lowern1ght@yahoo.com](mailto:lowern1ght@yahoo.com)
 
 ---
@@ -92,3 +92,10 @@
       `Kafka`, `Redis`, `RabbitMQ`, `JS/TS`, `xUnit`, `MSUnit`, `Benchmark.NET`,
       `React`, `Docker`, `Kubernetes`, `Nginx`, `IIS`, `JMeter`, `Ansible`, `Loki`, `Proxmox`, `Amazon S3`, `Minio`, 
       `Prometheus/Grafana`, `Zabbix`, `PostgreSQL`, `RabbitMq`, `MongoDB` `Kafka`, `Elasticsearch`, `Kibana`
+
+---
+
+#### Education
+
+> Nefteugansk's Technology College
+>   * Faculty - Production
