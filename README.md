@@ -4,115 +4,90 @@
 
 ## About me
 
- - Hi, my name is Sasha😊, I specialize in **web application** development particularly **Backend**.
-I have been writing in **C#** and ts for **over 4 years**,
-ready for any challenges, great at **teamwork**, **happy to collaborate**
+ - Hi, my name is Alexander, specialize on **web application** development, and **microservices** environment.
 
-> Location: `Russia`, Nefteugansk
+> Location: `Russia`
 
 ---
-
-> PDF Version: `CV.pdf`
-
----
-
-## Common Technology Stack
-
-`C#`, `.NET Core`, `.NET Framework`, `ASP.NET Core`, `JS/TS`, `React` `NextJS`, `WebStack (HTML, CSS)`,
-`PostgreSQL`, `MongoDB`, `ClickHouse`, `Redis`, `ELK(Elastic Stack)`, `Nginx`, `Kafka`, `RabbitMQ`, `Prometheus`, `Grafana`, 
-`Zabbix`, `Docker`, `Docker Compose`, `K8s`, `EntityFramework6/Core`, `Dapper`, `Linq2Db`, `MassTransint`, `Benchmark.NET`, 
-`xUnit`, `Moq`, `AutoMoq`
-
-- Not basic skills:
-
-`CPP(11, 14, 17, 20)`, `SDL2`, `boost`, `Rust`, `Cmake`, `conan`, `vcpkg`
-
-## Work experience
-
-*  | Period             |          2020 - 2022           |
-   |--------------------|:------------------------------:|
-   | Position           | **Middle** FullStack Developer |
-   | Specialization     |             Retail             |
-   | Company            |          Energosfera           |
-
-- Responsibilities:
-
-  - **Development life cycle**: 
-    * Successes development in **Retail** sphere and worked on internal CRM.
-    * Implementation of new functionality required by the new laws.
-    * Implementation of new product tasks in Legacy, the largest ones: **Bonus system**, **Cash modules**, **Work with CCM**.
-    * Successful breakdown and migration of the monolith to a microservice solution with subsequent refactoring.
-    * Configuring logs via **Elasticsearch**, configuring and deploying **Zabbix** agents for metrics.
-    * Involved in infrastructure planning, successfully promoted own solution.
-    * Development of event model through message brokers, used **RabbitMq**
-    * Writing integrations with **1C**, **Vat** platforms
-     
-  - **DevOps cycle**:
-    * Writing docker files, for internal applications
-    * Configuring deployment via **docker-compose**
-    * Setting up reverse proxy via **Nginx**
-    * Writing low-level applications required for easy deployment
-    * Deployed, configured **RabbitMQ** for use as a message broker
-    * Configuring **PostgreSQL**, working with configs, metrics via **Zabbix**
-
-  * Stack:
-    `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `JS/TS`, `React`, `CPP`, `Docker`, `Prometheus/Grafana`, `Zabbix`, 
-    `PostgreSQL`, `Redis`,`RabbitMq`, `Elasticsearch`, `Logstash`, `Kibana`
-
-*  | Period         |        2022 - For now        |
-   |----------------|:----------------------------:|
-   | Position       | **Senior** Backend Developer |
-   | Specialization |          Marketing           |
-   | Company        |          Hybrid.ai           |
-
-- Responsibilities:
-    - **Development life cycle**:
-      * Development of new functionality in WebApi on ASP.NET Core:
-        - Complex metrics in statistics, optimization of **ClickHouse** queries, working with **complex queries**
-        - Development of new http clients (**Refit**, **Polly**), integrations with other teams
-          - Setup circuit breaker, retry after, error logic
-        - Leading a separate module for communicating and sending data to advertising data operators
-        - Design and develop MVP notification service on message broker pattern with **RabbitMQ**
-      * Development of product tasks in **Advertising**/**Marketing**, introduction of new practices
-      * Transferring synchronous code to asynchronous, writing http client to work with third-party api
-      * Design and implementation of **MVP** of the **notification service**
-      * Development of back-end **scheduler controller**(~~Cyclex~~) application with UI on **React**
-      * Transferring task scheduler to microservices with **Kafka** message broker
-      * Writing 2 **MVP** frontend application on `React` for internal using
-      * Supporting the refactoring plan
-      * Optimization and improvement of legacy code
-        * Refactoring internal library
-        * Optimization for high-load
-      * Configure MiniProfiler with multi-application management
-      * Setup `CI/CD` to ui **auto-test** on `selenium hub`
-
-      - **DevOps cycle**:
-      * Setup nuget server
-      * Setup `k8s cluster` with **Ansible**
-      * Configure Elasticsearch Cluster, decorate exists system logging
-      * Configuring **docker-compose**, deploying services in **k8s** cluster.
-      * Setting up **IIS** pool, and raising reverse proxy through **Nginx**, for back end and front end.
-      * Configuring and deploying **log** indexing for back-end applications via **Elasticsearch**, **Kibana**.
-      * Setting up a microservice environment via **CI/CD** **GitLab**, **TeamCity**.
-      * Deploying and configuring **Prometheus**, **Grafana**, **Zabbix** for tracing back-end application metrics.
-
-    - **Life of the team**:
-      * Onboarding new developers
-      * Leading the **refactoring/transfer** team
-      * Preparation of a report for submission of an internal annex
-      * Working on **Scrum**, **Jira**, **Confluence**
-      * Consultation with the **support** department
-      * Writing **documentation** to run **internal applications** developed by the team
-      * Participating in **releases**, fixing problems encountered
-
-      * Stack using on position:
-      `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `EFCore`, `MassTransit`, 
-      `Kafka`, `Redis`, `RabbitMQ`, `JS/TS`, `xUnit`, `MSUnit`, `Benchmark.NET`, 
-      `React`, `Docker`, `K8s`, `Nginx`, `IIS`, `JMeter`, `Ansible`
-      `Prometheus/Grafana`, `Zabbix`, `PostgreSQL`, `RabbitMq`, `MongoDB` `Kafka`, `Elasticsearch`, `Kibana`
 
 ## Contacts
 
-* [Telegram](https://t.me/lowern1ght) 
-* Telephone: +7(902)8535680
+* [Telegram](https://t.me/lowern1ght)
+* Telephone: +7(902)*****80 (Please, send me in mail or telegram)
 * Email: [lowern1ght@yahoo.com](mailto:lowern1ght@yahoo.com)
+
+---
+
+## Skills
+
+
+* Languages: `C#`, `JavaScript/TypeScript`, `C++(11, 20)`, `Rust`
+* Technologies & Frameworks: `.NET Core 3/5/6/7/8`, `.NET Framework`, `.NET Standart 2.0/2.1`, `ASP.NET Core`, `ASP.NET MVC`, 
+`Avalonia UI`, `WPF`, `Node.JS`, `React`
+  * Libraries: `EF Core/6`, `Linq2DB`, `Dapper`, `Benchmark.NET`, `xUnit`, `Moq/AutoMoq`, `MassTransit`, `MiniProlier`
+* Tools: `Jira`, `Confluence`, `TeamCity`, `BitBucket`, `GitLab`, `GitHub`, `Draw.io`, `Postman`
+* Operating System: `Windows`, `Linux(Ubuntu/Fedora/CentOS)`
+* Databases & Environment: `Postgres`, `MongoDB`, `ClickHouse`, `Redis`, `Kafka`, `RabbitMQ`, `Minio`
+* Monitoring & Profiling: `Prometheus`, `Grafana`, `Elasticsearch`, `Kibana`, `Logstash`, `Loki`
+* Web/Application Servers: `nginx`, `traefik`, `IIS`, `IIS Express`, `self-hosted`
+* Orchestrators & Container Runtime: `Kubernetes`, `Docker Swarm`, `Podman`, `Docker`
+* Methodologies: SCRUM, Kanban, SOLID, Clean Code, ACID, TDD, DDD
+
+---
+
+## Summary
+
+- **Highly effective web application developer, with a large stack and experience**
+- **I specialize in product development and platform development. Excellent at estimating time on task and handling complex situations**
+- **Can establish communication with any team and person, able to differentiate and abstract from personality**
+- **Excellent with architecture design tools and select good and fast solutions based on needs and time constraints**
+
+---
+
+## Work experience
+
+> 2020 - 2022, Energosfera
+>   * Project Role - **Middle** FullStack Developer
+>   * About Company  - Largest retail company in the north in Russia
+>   * About project/s - Internal CRM for management documents and transport logic
+>   * Team size - 1 Project, 1 Tech Lead, 1 Team Lead, 2 - Product Managers, 8 - Developers
+
+ * #### Task performed:
+    - Networking and reverse proxy configuration.
+    - Development product features in legacy modules.
+    - CI/CD customization and support for your projects.
+    - Work with retail devices KKM, Terminal, Cash system.
+    - Developing and updating internal desktop applications.
+    - Introduction of new functions compliant with legislation.
+    - Architectural planning and development of projects such as **Bonus system**, **Cash modules**, **Document Routing**.
+
+ * #### Company stack: 
+   - `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `JS/TS`, `React`, `Electron.JS`, `Docker`, `Prometheus/Grafana`, 
+`Zabbix`, `PostgreSQL`, `Redis`,`RabbitMq`, `Elasticsearch`, `Kibana`
+
+---
+
+> 2022 - **For now**, Hybrid.ai
+>   * Project Role - **Lead Senior Backend**, **System Architect**
+>   * About Company  - Marketing company, ranked 3rd in the world. Provides a complete package of necessary for opening and advertising on sites
+>   * About project/s - CRM, DSP, SSP, Big Data statistic, more feature for marketing life, integration with popular solutions and advertising world supplier
+>   * Team size - 1 Project, 4 Team Lead, 1 - System Architect, 8 - Product Managers, 16 - Backend, 14 - Frontend
+
+* #### Task performed:
+    - Planning the architecture of highly loaded solutions.
+    - Development and implementation of new product features.
+    - Selecting and advocating technologies for new products.
+    - Direct involvement in decisions important for the product.
+    - Development of features for processing large amounts of data.
+    - Providing the product to the customer, developing presentations.
+    - Architecture planning for third-party projects, preparation of MVP solution.
+    - Optimization of work with the database, ensuring fault tolerance of existing tools.
+    - Support and fix legacy code with optimization of existing solutions in a constrained environment.
+    - Decompose and manage a team of 4 people refactoring and splitting the monolith into microservices.
+    - Setting up a ready-made production and development environment on **kubernetes** for new projects with **profiling**
+
+* #### Company stack:
+    - `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `EFCore`, `MassTransit`,
+      `Kafka`, `Redis`, `RabbitMQ`, `JS/TS`, `xUnit`, `MSUnit`, `Benchmark.NET`,
+      `React`, `Docker`, `Kubernetes`, `Nginx`, `IIS`, `JMeter`, `Ansible`, `Loki`, `Proxmox`, `Amazon S3`, `Minio`, 
+      `Prometheus/Grafana`, `Zabbix`, `PostgreSQL`, `RabbitMq`, `MongoDB` `Kafka`, `Elasticsearch`, `Kibana`
