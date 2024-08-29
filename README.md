@@ -4,7 +4,7 @@
 
 ## About me
 
- - Hi, my name is Alexander, specialize on **web application** development, and **microservices** environment.
+ - Hi, my name is Alexander, specialize on **web application** development and **microservices** environment.
 
 > Location: `Russia`
 
