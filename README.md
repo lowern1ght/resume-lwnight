@@ -80,11 +80,12 @@
     - Direct involvement in decisions important for the product.
     - Development of features for processing large amounts of data.
     - Providing the product to the customer, developing presentations.
+    - Conducting a code review highlighting common code style and approaches.
     - Architecture planning for third-party projects, preparation of MVP solution.
     - Optimization of work with the database, ensuring fault tolerance of existing tools.
-    - Support and fix legacy code with optimization of existing solutions in a constrained environment.
     - Manage a team of 4 people refactoring and splitting the monolith into microservices.
-    - Setting up a ready-made production and development environment on **kubernetes** for new projects with **profiling**
+    - Support and fix legacy code with optimization of existing solutions in a constrained environment.
+    - Setting up a ready-made production and development environment on **kubernetes** for new projects with **monitoring**
 
 * #### Company stack:
     - `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `EFCore`, `MassTransit`,
