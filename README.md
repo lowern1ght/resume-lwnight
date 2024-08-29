@@ -68,7 +68,7 @@
 ---
 
 > 2022 - **For now**, Hybrid.ai
->   * Project Role - **Lead Senior Backend**, **System Architect**
+>   * Project Role - **Lead Senior Backend Developer**, **System Architect**
 >   * About Company  - Marketing company, ranked 3rd in the world. Provides a complete package of necessary for opening and advertising on sites
 >   * About project/s - CRM, DSP, SSP, Big Data statistic, more feature for marketing life, integration with popular solutions and advertising world supplier
 >   * Team size - 1 Project, 4 Team Lead, 1 - System Architect, 8 - Product Managers, 16 - Backend, 14 - Frontend
