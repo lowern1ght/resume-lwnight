@@ -89,7 +89,7 @@
 
 * #### Company stack:
     - `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `EFCore`, `MassTransit`,
-      `Kafka`, `Redis`, `RabbitMQ`, `JS/TS`, `xUnit`, `MSUnit`, `Benchmark.NET`,
+      `Kafka`, `Redis`, `RabbitMQ`, `JS/TS`, `xUnit`, `MSUnit`, `Benchmark.NET`, `Selenium`, `Playwright`,
       `React`, `Docker`, `Kubernetes`, `Nginx`, `IIS`, `JMeter`, `Ansible`, `Loki`, `Proxmox`, `Amazon S3`, `Minio`, 
       `Prometheus/Grafana`, `Zabbix`, `PostgreSQL`, `RabbitMq`, `MongoDB` `Kafka`, `Elasticsearch`, `Kibana`
 
