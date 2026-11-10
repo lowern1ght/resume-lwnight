@@ -26,7 +26,7 @@ SKILLS
  Languages: C#, TypeScript, Rust, C++
  Core: .NET, ASP.NET Core, EF Core, Microservices, System Architecture, DDD
  AI & Agents: LLM orchestration, agentic workflows, MCP, RAG, multi-agent systems, agent graphs (voluta), Claude Code, opencode, Orca
- Data & Messaging: PostgreSQL, Kafka, Redis, ClickHouse, Elasticsearch, RabbitMQ, MongoDB
+ Data & Messaging: PostgreSQL, Aerospike, Garnet, Redis, Kafka, ClickHouse, Elasticsearch, RabbitMQ, MongoDB
  Infra & Ops: Kubernetes, Docker, GitLab CI, Prometheus, Grafana, VictoriaMetrics, Keycloak
 
 <details>
@@ -35,7 +35,7 @@ SKILLS
  Frameworks & UI: .NET Framework, .NET Standard, ASP.NET MVC, Avalonia UI, WPF, React, Node.JS, Bun, Electron.js
  Libraries: EF Core/6, Linq2DB, Dapper, MassTransit, Benchmark.NET, xUnit, Moq/AutoMoq, OpenTelemetry, MiniProfiler
  Code Quality: custom Roslyn analyzers, Roslyn source generators, .editorconfig, analyzer rule sets, code style enforcement
- Databases & Storage: MongoDB, ClickHouse, Redis, Minio, Amazon S3
+ Databases & Storage: PostgreSQL, MongoDB, Aerospike, Garnet, Redis, ClickHouse, Minio, Amazon S3
  Messaging & Streaming: Kafka (native client; consumer groups, partition replication, retention log), RabbitMQ, MassTransit
  Monitoring & Profiling: Prometheus, Grafana, VictoriaMetrics, Elasticsearch, Kibana, Logstash, Loki, Zabbix
  Web/Application Servers: nginx, traefik, IIS, self-hosted
