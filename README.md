@@ -18,28 +18,42 @@
 
 * [GitHub](https://github.com/lowern1ght)
 * [Telegram](https://t.me/lowern1ght)
-* Telephone: +7(902)*****80 (Please, contact me in mail or telegram)
 * Email: [lowern1ght@yahoo.com](mailto:lowern1ght@yahoo.com)
+
+---
+
+## Languages
+
+* **Russian** — native
+* **English** — B1 (intermediate)
 
 ---
 
 ## Skills
 
 
-* Languages: `C#`, `JavaScript/TypeScript`, `C++(11, 20)`, `Rust`
-* AI & Agents: `LLM orchestration`, `Claude Code`, `opencode`, `Orca (agent IDE)`, `agentic workflows`, `multi-agent systems`, `agent graphs (voluta)`, `MCP`, `RAG`, `prompt engineering`, `self-verifying agent pipelines`
-* Code Quality & Static Analysis: `custom Roslyn analyzers`, `Roslyn`, `.editorconfig`, `analyzer rule sets`, `code style enforcement`
-* Technologies & Frameworks: `.NET Core 3/5/6/7/8`, `.NET Framework`, `.NET Standard 2.0/2.1`, `ASP.NET Core`, `ASP.NET MVC`, 
-`Avalonia UI`, `WPF`, `Node.JS`, `Bun`, `React`
-  * Libraries: `EF Core/6`, `Linq2DB`, `Dapper`, `Benchmark.NET`, `xUnit`, `Moq/AutoMoq`, `MassTransit`, `MiniProfiler`
-* Tools: `Jira`, `Confluence`, `TeamCity`, `BitBucket`, `GitLab`, `GitHub`, `Draw.io`, `Postman`
-* Operating System: `Windows`, `Linux(Ubuntu/Fedora/CentOS)`
+* **Languages:** `C#`, `TypeScript`, `Rust`, `C++`
+* **Core:** `.NET`, `ASP.NET Core`, `EF Core`, `Microservices`, `System Architecture`, `DDD`
+* **AI & Agents:** `LLM orchestration`, `agentic workflows`, `MCP`, `RAG`, `multi-agent systems`, `agent graphs (voluta)`, `Claude Code`, `opencode`, `Orca`
+* **Data & Messaging:** `PostgreSQL`, `Kafka`, `Redis`, `ClickHouse`, `Elasticsearch`, `RabbitMQ`, `MongoDB`
+* **Infra & Ops:** `Kubernetes`, `Docker`, `GitLab CI`, `Prometheus`, `Grafana`, `VictoriaMetrics`, `Keycloak`
+
+<details>
+<summary>Full stack inventory</summary>
+
+* Frameworks & UI: `.NET Framework`, `.NET Standard`, `ASP.NET MVC`, `Avalonia UI`, `WPF`, `React`, `Node.JS`, `Bun`, `Electron.js`
+* Libraries: `EF Core/6`, `Linq2DB`, `Dapper`, `MassTransit`, `Benchmark.NET`, `xUnit`, `Moq/AutoMoq`, `OpenTelemetry`, `MiniProfiler`
+* Code Quality: `custom Roslyn analyzers`, `Roslyn source generators`, `.editorconfig`, `analyzer rule sets`, `code style enforcement`
+* Databases & Storage: `MongoDB`, `ClickHouse`, `Redis`, `Minio`, `Amazon S3`
 * Messaging & Streaming: `Kafka` (native client; consumer groups, partition replication, retention log), `RabbitMQ`, `MassTransit`
-* Databases & Environment: `Postgres`, `MongoDB`, `ClickHouse`, `Redis`, `Minio`
-* Monitoring & Profiling: `Prometheus`, `Grafana`, `VictoriaMetrics`, `Elasticsearch`, `Kibana`, `Logstash`, `Loki`
-* Web/Application Servers: `nginx`, `traefik`, `IIS`, `IIS Express`, `self-hosted`
-* Orchestrators & Container Runtime: `Kubernetes`, `Docker Swarm`, `Podman`, `Docker`
+* Monitoring & Profiling: `Prometheus`, `Grafana`, `VictoriaMetrics`, `Elasticsearch`, `Kibana`, `Logstash`, `Loki`, `Zabbix`
+* Web/Application Servers: `nginx`, `traefik`, `IIS`, `self-hosted`
+* Orchestrators & Runtime: `Kubernetes`, `Docker Swarm`, `Podman`, `Docker`
+* Tooling: `Jira`, `Confluence`, `TeamCity`, `BitBucket`, `GitLab`, `GitHub`, `Draw.io`, `Postman`, `Keycloak`
+* OS: `Windows`, `Linux (Ubuntu/Fedora/CentOS)`
 * Methodologies: `SCRUM`, `Kanban`, `SOLID`, `Clean Code`, `ACID`, `TDD`, `DDD`
+
+</details>
 
 ---
 
@@ -54,20 +68,17 @@
 
 ## Work experience
 
-> 2020 - 2021, Energosfera
+> Jan 2020 - Jun 2021, Energosfera
 >   * Project Role - **Middle** FullStack Developer
 >   * About Company  - Largest retail company in the north in Russia
 >   * About project/s - Internal CRM for management documents and transport logic
 >   * Team size - 1 Project, 1 Tech Lead, 1 Team Lead, 2 - Product Managers, 8 - Developers
 
  * #### Task performed:
-    - Networking and reverse proxy configuration.
-    - Development product features in legacy modules.
-    - CI/CD customization and support for your projects.
-    - Work with retail devices KKM, Terminal, Cash system.
-    - Developing and updating internal desktop applications.
-    - Introduction of new functions compliant with legislation.
-    - Architectural planning and development of projects such as **Bonus system**, **Cash modules**, **Document Routing**.
+    - Architected and developed three core internal systems: a **bonus/loyalty system**, **cash register modules** and a **document routing service** supporting key retail operations.
+    - Developed and maintained features for a **legacy CRM** and internal desktop applications (**Electron.js**), including integrations with retail hardware (cash registers, terminals).
+    - Customized and supported **CI/CD pipelines**, networking and reverse-proxy configuration for development teams.
+    - Implemented features required to comply with changing **retail legislation**, keeping company operations compliant.
 
  * #### Company stack: 
    - `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `JS/TS`, `React`, `Electron.JS`, `Docker`, `Prometheus/Grafana`, 
@@ -75,7 +86,7 @@
 
 ---
 
-> 2021 - 2022, Meridian Payments
+> Jul 2021 - Feb 2022, Meridian Payments
 >   * Project Role - **Senior Backend Developer**
 >   * About Company  - Fintech startup building a card-not-present payment gateway and billing platform
 >   * About project/s - Payment processing, recurring billing, fraud detection and acquiring integrations
@@ -94,7 +105,7 @@
 
 ---
 
-> 2022 - **For now**, Hybrid.ai
+> Mar 2022 - **For now**, Hybrid.ai
 >   * Project Role - **Lead Senior Backend Developer**, **System Architect**
 >   * About Company  - Marketing company, ranked 3rd in the world. Provides a complete package of necessary for opening and advertising on sites
 >   * About project/s - CRM, DSP, SSP, Big Data statistic, more feature for marketing life, integration with popular solutions and advertising world supplier
@@ -102,19 +113,12 @@
 
 * #### Task performed:
     - Conceived and built the product's **MCP layer**: an MCP gateway exposing the API as agent tools, generated from the API clients by a **Roslyn source generator** I wrote — replacing 88 hand-written wrappers; any drift between API and agent surface now fails the build.
-    - Designed the **agentic contour end to end**: agent runtime (CLI, web dashboard, audit trail), **skill system**, **workflow orchestration** and **quality gates** — architecture, flows and the engineering bar authored once, with teams shipping on top of them. The harness layer runs on **voluta** — a **LangGraph-style agent-graph engine for .NET** I authored (open source); **two production harnesses** are built on it.
-    - Designed an **in-house agentic orchestrator**: pulls tasks from **Jira**, generates and edits code with **self-verification** loops, and **estimates the dollar cost of a feature** before work begins.
-    - **Decomposed a massive legacy product into a modular core + BFF (Backend-for-Frontend) system** and enabled **agent-oriented development** on the 7-year-old core monolith — product teams now extend it through a **multi-agent toolchain (Claude Code, opencode, the in-house coding agent)** orchestrated in **Orca**, while engineering owns the surrounding fleet of **20–30 microservices**.
-    - Architected the product around **deep DDD with a plugin system**: clear domain boundaries and extension points that keep a long-lived monolith maintainable.
-    - Designed and maintained the **internal shared libraries** consumed by all products and microservices — common abstractions, conventions and building blocks that standardize how every team builds across the platform.
-    - Designed and built **custom DSL parsers** with a query language — letting product teams express filtering, rules and complex domain queries declaratively instead of through ad-hoc code paths.
-    - Built a **notification service handling 50k rps** at the initial stage, with horizontal scaling headroom.
-    - Introduced **AI-assisted development** — **Claude Code, opencode, the in-house coding agent**, orchestrated in **Orca** — into the team's day-to-day delivery, backed by **guardrails for agent-generated code** — custom **Roslyn analyzers**, strict `.editorconfig`, rule sets, and an **agent-driven verification harness** on my own `hermes` agent, with self-verifying feedback loops for both AI and human authors.
-    - Built an internal **job orchestration & monitoring system**: cron-scheduled jobs with a web **UI** and **Keycloak**-based auth.
-    - Owned **product telemetry** and observability — custom **dashboards in Kibana and Grafana**, stood up **VictoriaMetrics** and **Elastic** stacks for testing and diagnostics.
-    - Introduced an **exception inheritance hierarchy** splitting **business vs technical** errors, so support captures maximum diagnostics per issue and bugs reach developers far faster.
-    - Managed a **team of 4** refactoring legacy modules and extracting satellite microservices around the core monolith.
-    - Set up ready-made production and development environments on **Kubernetes** for new projects with **monitoring**.
+    - Designed the **agentic contour end to end**: agent runtime (CLI, web dashboard, audit trail), **skill system**, **workflow orchestration** and **quality gates** — plus an **in-house orchestrator** that turns **Jira** tasks into code with **self-verification** loops and upfront **dollar-cost estimates**. The harness layer runs on **voluta** — a **LangGraph-style agent-graph engine for .NET** I authored (open source); **two production harnesses** are built on it.
+    - **Decomposed a 7-year-old core monolith** into a **modular core + BFF system** with **deep DDD and a plugin system**; product teams extend it through a **multi-agent toolchain (Claude Code, opencode, the in-house coding agent)** orchestrated in **Orca**, while engineering owns the surrounding fleet of **20–30 microservices**.
+    - Designed and built a **notification service handling 50k rps** at launch with horizontal scaling headroom, and **custom DSL parsers** letting teams express filtering, rules and domain queries declaratively; maintained the **internal shared libraries** every product builds on.
+    - Introduced **AI-assisted development** into daily delivery, backed by **guardrails for agent-generated code** — custom **Roslyn analyzers**, strict `.editorconfig`, rule sets and a self-verifying **verification harness** (`hermes`).
+    - Built an internal **job orchestration & monitoring system** (web UI, **Keycloak** auth) and an **exception hierarchy** splitting business vs technical errors for faster, better-diagnosed support.
+    - Managed a **team of 4** refactoring legacy modules and extracting satellite microservices; owned **observability** (Grafana/Kibana dashboards, **VictoriaMetrics**, **Elastic**) and set up **Kubernetes** production/dev environments with monitoring.
 
 * #### Company stack:
     - `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `MassTransit`,
