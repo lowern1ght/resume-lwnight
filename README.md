@@ -1,6 +1,6 @@
 ![header](.resources/_head.png)
 
-> ### **Lead Backend Engineer · System Architect · AI / Agentic Systems**
+> ### **Lead Backend Engineer (System Architecture, AI & Agentic Systems)**
 
 ---
 
