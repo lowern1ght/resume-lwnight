@@ -3,9 +3,7 @@ Lead Backend Engineer · System Architect · AI / Agentic Systems
 ------------------------------------------------------------
 ABOUT ME
 
- - Hi, my name is Alexander — backend developer and system architect. I specialize on web applications, high-load services and microservices.
- - I take on projects end to end: product architecture, distributed and high-load parts, integrations with external services, developer platforms and shared libraries.
- - I also build agentic and AI-assisted systems — the kind of project where LLMs become a production tool, not a demo.
+Lead backend developer & system architect with 6 years of commercial experience across adtech, fintech and retail — building high-load distributed systems and web applications on .NET. I take products end to end: architecture and domain design, monolith decomposition into microservices, integrations with external services, developer platforms and shared libraries. Beyond the classic backend, I design agentic and AI-assisted systems — the kind of project where LLMs become a production tool, not a demo — and keep a high bar for code quality: AI-generated and human code alike stays clean, consistent and review-ready.
 
 Location: Russia
 
@@ -47,14 +45,6 @@ SKILLS
  Methodologies: SCRUM, Kanban, SOLID, Clean Code, ACID, TDD, DDD
 
 </details>
-
-------------------------------------------------------------
-SUMMARY
-
- - Lead backend & system architect — 6 years across adtech, fintech and retail, building high-load distributed systems on .NET
- - I take products end to end: architecture and domain design, monolith decomposition, distributed and high-load parts, production environments
- - I build agentic & AI-assisted systems — agent runtimes, orchestration and the engineering that makes LLMs part of daily delivery
- - High bar for code quality — AI-generated and human code alike stays clean, consistent and review-ready
 
 ------------------------------------------------------------
 WORK EXPERIENCE
