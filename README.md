@@ -46,10 +46,9 @@
 ## Summary
 
 - **Lead backend & system architect — 6 years across adtech, fintech and retail, building high-load distributed systems on .NET**
-- **Author of the product's agentic contour: agent runtime, skill system, flows and quality gates — teams ship on top of them**
-- **Built a Roslyn source generator that turns Refit API clients into MCP server tools — the agent surface stays in sync with the API by construction, not by review**
-- **Delivery on a multi-agent toolchain — Claude Code, opencode, in-house coding agent — orchestrated in Orca**
-- **High bar for code quality: enforce style and architecture through custom Roslyn analyzers, `.editorconfig` and rule sets, so AI-generated code stays clean, consistent and review-ready**
+- **I take products end to end: architecture and domain design, monolith decomposition, distributed and high-load parts, production environments**
+- **I build agentic & AI-assisted systems — agent runtimes, orchestration and the engineering that makes LLMs part of daily delivery**
+- **High bar for code quality — AI-generated and human code alike stays clean, consistent and review-ready**
 
 ---
 
