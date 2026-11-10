@@ -7,7 +7,8 @@
 ## About me
 
  - Hi, my name is Alexander — **backend developer and system architect**. I specialize on **web applications**, **high-load services** and **microservices**.
- - Alongside the classic backend, I design **agentic systems** and bring **AI-assisted development** into teams — as architecture and as daily practice.
+ - I take on projects **end to end**: product architecture, distributed and high-load parts, integrations with external services, developer platforms and shared libraries.
+ - I also build **agentic and AI-assisted systems** — the kind of project where LLMs become a production tool, not a demo.
 
 > Location: `Russia`
 
