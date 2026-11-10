@@ -4,9 +4,9 @@
 
 ---
 
-## About me
+## Summary
 
-Lead backend developer & system architect with 6 years of commercial experience across adtech, fintech and retail — building **high-load distributed systems** and web applications on **.NET**. I take products end to end: architecture and domain design, monolith decomposition into microservices, integrations with external services, developer platforms and shared libraries. Beyond the classic backend, I design **agentic and AI-assisted systems** — the kind of project where LLMs become a production tool, not a demo — and keep a high bar for code quality: AI-generated and human code alike stays clean, consistent and review-ready.
+Lead backend developer & system architect with nearly 7 years of commercial experience across adtech, fintech and retail — building **high-load distributed systems** and web applications on **.NET**. I take products end to end: architecture and domain design, monolith decomposition into microservices, integrations with external services, developer platforms and shared libraries. Beyond the classic backend, I design **agentic and AI-assisted systems** — the kind of project where LLMs become a production tool, not a demo — and keep a high bar for code quality: AI-generated and human code alike stays clean, consistent and review-ready.
 
 > Location: `Russia`
 
@@ -82,12 +82,11 @@ Lead backend developer & system architect with 6 years of commercial experience 
 >   * Team size - 1 Tech Lead, 2 Product Managers, 6 Backend, 2 Frontend, 1 DevOps
 
 * #### Task performed:
-    - Designed and built the **core payment gateway** (.NET Core, PostgreSQL) processing card-not-present transactions with idempotency keys and exactly-once delivery semantics.
+    - Designed and built the **core payment gateway** (.NET Core, PostgreSQL) processing card-not-present transactions with idempotency keys and exactly-once delivery semantics, shipped on **Kubernetes** with full **OpenTelemetry** tracing and Prometheus metrics.
     - Implemented a **real-time anti-fraud pipeline** (Kafka, Redis) — heuristics + velocity rules that cut chargeback rate significantly within the first quarter.
     - Built the **recurring billing engine** handling subscriptions, proration and dunning flows for SaaS merchants.
     - Integrated with **external acquirers and PSPs** (3-D Secure, tokenization, webhooks) — standardized adapter layer so new providers shipped in days, not weeks.
     - Owned **PCI DSS compliance** for the backend layer — no plain PAN storage, strict key management, audit-ready logging.
-    - Shipped services on **Kubernetes** with full **OpenTelemetry** tracing and Prometheus metrics.
 
 * #### Company stack:
     - `C#`, `.NET Core`, `EF Core`, `PostgreSQL`, `Kafka`, `Redis`, `Docker`, `Kubernetes`, `Prometheus/Grafana`, `OpenTelemetry`, `xUnit`
@@ -106,8 +105,7 @@ Lead backend developer & system architect with 6 years of commercial experience 
     - **Decomposed a 7-year-old core monolith** into a **modular core + BFF system** with **deep DDD and a plugin system**; product teams extend it through a **multi-agent toolchain (Claude Code, opencode, the in-house coding agent)** orchestrated in **Orca**, while engineering owns the surrounding fleet of **20–30 microservices**.
     - Designed and built a **notification service handling 50k rps** at launch with horizontal scaling headroom, and **custom DSL parsers** letting teams express filtering, rules and domain queries declaratively; maintained the **internal shared libraries** every product builds on.
     - Introduced **AI-assisted development** into daily delivery, backed by **guardrails for agent-generated code** — custom **Roslyn analyzers**, strict `.editorconfig`, rule sets and a self-verifying **verification harness** (`hermes`).
-    - Built an internal **job orchestration & monitoring system** (web UI, **Keycloak** auth) and an **exception hierarchy** splitting business vs technical errors for faster, better-diagnosed support.
-    - Managed a **team of 4** refactoring legacy modules and extracting satellite microservices; owned **observability** (Grafana/Kibana dashboards, **VictoriaMetrics**, **Elastic**) and set up **Kubernetes** production/dev environments with monitoring.
+    - Managed a **team of 4** refactoring legacy modules and extracting satellite microservices; built an internal **job orchestration & monitoring system** (web UI, **Keycloak** auth), introduced an **exception hierarchy** splitting business vs technical errors, owned **observability** (Grafana/Kibana, **VictoriaMetrics**, **Elastic**) and set up **Kubernetes** production/dev environments with monitoring.
 
 * #### Company stack:
     - `C#`, `.NET Core`, `.NET Framework`, `Dapper`, `EFCore`, `Linq2Db`, `MassTransit`,
